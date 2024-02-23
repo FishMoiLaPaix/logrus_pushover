@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 // get pushoverUserToken, pushoverAPIToken from ENV
